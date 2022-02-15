@@ -74,6 +74,7 @@ margin:34px 45px;
     display:flex;
     flex-direction: column;
     padding: 3px 200px;
+    height: 400px;
     justify-content: center;
     align-items: center;
 }
@@ -87,4 +88,14 @@ margin:34px 45px;
     width: 100%;
     z-index: -1;
     opacity:0.89;
+}
+
+#home h1{
+    color:blueviolet;
+    text-align: center;
+}
+/*utility classes*/
+.h-primary{
+    font-size: 2.8rem;
+    padding: 12px;
 }
