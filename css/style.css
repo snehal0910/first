@@ -94,6 +94,11 @@ margin:34px 45px;
     color:blueviolet;
     text-align: center;
 }
+#home p{
+    color: brown;
+    text-align: center;
+    font-size: 1.5rem;
+}
 /*utility classes*/
 .h-primary{
     font-size: 2.8rem;
