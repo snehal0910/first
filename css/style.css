@@ -73,4 +73,7 @@ margin:34px 45px;
 {
     display:flex;
     flex-direction: column;
+    padding: 3px 200px;
+    justify-content: center;
+    align-items: center;
 }
