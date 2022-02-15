@@ -37,3 +37,10 @@ margin:34px 45px;
     list-style: none;
     font-size: 1.3rem;
 }
+
+#navbar ul li a{
+    display:block;
+    padding:3px 22px;
+    border-radius: 20px;
+    text-decoration:none;
+}
