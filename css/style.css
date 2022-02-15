@@ -9,7 +9,7 @@
     --navbar-height:59px;
 }
 /*navigation bar */
-#navabar
+#navbar
 {
     display:flex;
     align-items:center;
@@ -17,7 +17,7 @@
 
 /* logo and image*/
 #logo{
-    margin:34px 45 px;
+    margin:34px 45px;
 }
 
 *logo img
@@ -98,6 +98,7 @@ margin:34px 45px;
     color: brown;
     text-align: center;
     font-size: 1.5rem;
+    font-family: 'Playball', cursive;
 }
 /*utility classes*/
 .h-primary{
