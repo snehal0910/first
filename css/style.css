@@ -27,9 +27,22 @@ margin:34px 45px;
 }
 
 /*navigation bar:list styling */
+#navbar{
+    position: relative;
+}
 #navbar ul{
     display:flex;
 
+}
+
+#navbar::before{
+    content:"";
+    background-color:pink;
+    position: absolute;
+    height:100%;
+    width: 100%;
+    z-index: -1;
+    opacity:0.4;
 }
 
 #navbar ul li{
